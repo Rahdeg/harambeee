@@ -1,0 +1,22 @@
+import React from 'react'
+import Product from '../Products/product'
+import About from '../About/about'
+import Contact from '../Contact/contact'
+import bg from './3403157.jpg'
+
+const home = () => {
+  return (
+    <div className='home'>
+    <div className='f1 tc hom'>
+    <div><img src={bg} alt='jj'/></div>
+
+    </div>
+    
+    <About/>
+    <Product/>
+    <Contact/>
+    </div>
+  )
+}
+
+export default home
