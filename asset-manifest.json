@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.1523f14d.css",
-    "main.js": "/static/js/main.49151d5b.js",
-    "static/js/787.7a03d1fc.chunk.js": "/static/js/787.7a03d1fc.chunk.js",
-    "static/media/SmashedCuc.jpg": "/static/media/SmashedCuc.70258b124605c7f23b65.jpg",
-    "static/media/BockChoys.jpg": "/static/media/BockChoys.f9c932fc8e3d10ae9ba6.jpg",
-    "static/media/MushroomSloppy.jpg": "/static/media/MushroomSloppy.7aeeb1b34bdd129d262c.jpg",
-    "static/media/riceBeensGreens.jpg": "/static/media/riceBeensGreens.3fa345f70aff20ce2ef9.jpg",
-    "static/media/RiceRolls.jpg": "/static/media/RiceRolls.616004fe55c22727c989.jpg",
-    "static/media/Cauli.jpg": "/static/media/Cauli.33ba28305c3d1cac268d.jpg",
-    "static/media/london-stock.jpg": "/static/media/london-stock.013fd8ec333d353470e7.jpg",
-    "static/media/instagram.png": "/static/media/instagram.e719d8b29f452a16302d.png",
-    "static/media/cont.jpg": "/static/media/cont.e9194e1ca6f1e0e81286.jpg",
-    "static/media/twitter.png": "/static/media/twitter.93ac3f9a344ecd5d01a4.png",
-    "static/media/whatsapp.png": "/static/media/whatsapp.1dd8ca2765f1f177ab22.png",
-    "static/media/gmail.png": "/static/media/gmail.a2f2146f929409405da0.png",
-    "index.html": "/index.html",
-    "main.1523f14d.css.map": "/static/css/main.1523f14d.css.map",
-    "main.49151d5b.js.map": "/static/js/main.49151d5b.js.map",
-    "787.7a03d1fc.chunk.js.map": "/static/js/787.7a03d1fc.chunk.js.map"
+    "main.css": "/harambeee/static/css/main.1523f14d.css",
+    "main.js": "/harambeee/static/js/main.e4aaf41e.js",
+    "static/js/787.7a03d1fc.chunk.js": "/harambeee/static/js/787.7a03d1fc.chunk.js",
+    "static/media/SmashedCuc.jpg": "/harambeee/static/media/SmashedCuc.70258b124605c7f23b65.jpg",
+    "static/media/BockChoys.jpg": "/harambeee/static/media/BockChoys.f9c932fc8e3d10ae9ba6.jpg",
+    "static/media/MushroomSloppy.jpg": "/harambeee/static/media/MushroomSloppy.7aeeb1b34bdd129d262c.jpg",
+    "static/media/riceBeensGreens.jpg": "/harambeee/static/media/riceBeensGreens.3fa345f70aff20ce2ef9.jpg",
+    "static/media/RiceRolls.jpg": "/harambeee/static/media/RiceRolls.616004fe55c22727c989.jpg",
+    "static/media/Cauli.jpg": "/harambeee/static/media/Cauli.33ba28305c3d1cac268d.jpg",
+    "static/media/london-stock.jpg": "/harambeee/static/media/london-stock.013fd8ec333d353470e7.jpg",
+    "static/media/instagram.png": "/harambeee/static/media/instagram.e719d8b29f452a16302d.png",
+    "static/media/cont.jpg": "/harambeee/static/media/cont.e9194e1ca6f1e0e81286.jpg",
+    "static/media/twitter.png": "/harambeee/static/media/twitter.93ac3f9a344ecd5d01a4.png",
+    "static/media/whatsapp.png": "/harambeee/static/media/whatsapp.1dd8ca2765f1f177ab22.png",
+    "static/media/gmail.png": "/harambeee/static/media/gmail.a2f2146f929409405da0.png",
+    "index.html": "/harambeee/index.html",
+    "main.1523f14d.css.map": "/harambeee/static/css/main.1523f14d.css.map",
+    "main.e4aaf41e.js.map": "/harambeee/static/js/main.e4aaf41e.js.map",
+    "787.7a03d1fc.chunk.js.map": "/harambeee/static/js/787.7a03d1fc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1523f14d.css",
-    "static/js/main.49151d5b.js"
+    "static/js/main.e4aaf41e.js"
   ]
 }
